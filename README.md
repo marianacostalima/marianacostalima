@@ -1,6 +1,6 @@
 <div>
-  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=debdebinha&show_icons=true&theme=react&hide_border=true"/> 
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=debdebinha&layout=compact&theme=react&hide_border=true"/>
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marianacostalima&show_icons=true&theme=react&hide_border=true"/> 
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marianacostalima&layout=compact&theme=react&hide_border=true"/>
   <br>
 </div>
 
